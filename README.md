@@ -28,18 +28,8 @@
 ###
 
 <div align="center">
-  <!-- Dark Theme Images -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=crabhub19&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=0&order=3" height="150" alt="streak graph">
-    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=crabhub19&locale=en&mode=daily&theme=default&hide_border=true&border_radius=0&order=3" height="150" alt="streak graph">
-    <img src="https://streak-stats.demolab.com?user=crabhub19&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=0&order=3" height="150" alt="streak graph">
-  </picture>
-
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=crabhub19&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=true&order=2" height="150" alt="languages graph">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=crabhub19&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=default&hide_border=true&order=2" height="150" alt="languages graph">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=crabhub19&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=true&order=2" height="150" alt="languages graph">
-  </picture>
+  <img src="https://streak-stats.demolab.com?user=crabhub19&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=0&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=crabhub19&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=true&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
