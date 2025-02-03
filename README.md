@@ -1,5 +1,5 @@
 
-<h1 align="right">MD MAKSUD HASAB BISHAL</h1>
+<h1 align="right">MAKSUD HASAN BISHAL</h1>
 
 ###
 
