@@ -1,5 +1,4 @@
-
-<h1 align="right">MAKSUD HASAN BISHAL</h1>
+<h1 align="right">MD MAKSUD HASAB BISHAL</h1>
 
 ###
 
@@ -19,35 +18,54 @@
 </div>
 
 ###
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/crabhub19/crabhub19/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/crabhub19/crabhub19/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/crabhub19/crabhub19/output/github-snake.svg" />
-</picture>
-
-###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=crabhub19&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=0&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=crabhub19&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/crabhub19/crabhub19/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/crabhub19/crabhub19/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/crabhub19/crabhub19/output/github-snake.svg" />
+  </picture>
 </div>
 
 ###
 
-<img align="left" height="95" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3NpNWUzYzljN283Z3kwOW5iaHl4eDZ2N3dma200eGk0NjVuZWVsNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bAQH7WXKqtIBrPs7sR/giphy.gif"  />
+<div align="center">
+  <!-- Dark Theme Images -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=crabhub19&locale=en&mode=weekly&theme=dark&hide_border=true&border_radius=0&order=3" height="150" alt="streak graph">
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=crabhub19&locale=en&mode=weekly&theme=default&hide_border=true&border_radius=0&order=3" height="150" alt="streak graph">
+    <img src="https://streak-stats.demolab.com?user=crabhub19&locale=en&mode=weekly&theme=dark&hide_border=true&border_radius=0&order=3" height="150" alt="streak graph">
+  </picture>
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=crabhub19&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=true&order=2" height="150" alt="languages graph">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=crabhub19&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=default&hide_border=true&order=2" height="150" alt="languages graph">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=crabhub19&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=true&order=2" height="150" alt="languages graph">
+  </picture>
+</div>
 
 ###
 
-<div align="right">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="react logo"  />
+<img align="right" height="95" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3NpNWUzYzljN283Z3kwOW5iaHl4eDZ2N3dma200eGk0NjVuZWVsNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bAQH7WXKqtIBrPs7sR/giphy.gif"  />
+
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="25" alt="react logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="50" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="25" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="25" alt="python logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="50" alt="django logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="25" alt="django logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="50" alt="nextjs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="25" alt="nextjs logo"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=crabhub19.crabhub19&left_color=black&right_color=darkred"  />
 </div>
 
 ###
