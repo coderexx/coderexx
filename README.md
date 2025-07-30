@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/maksud-dev/" target="_blank">
+  <a href="https://www.linkedin.com/in/maksud-hasan/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
   <a href="https://wa.me/+8801703055918?text=I%27m%20inquiring%20about%20the%20Web%20Designing%20Services" target="_blank">
