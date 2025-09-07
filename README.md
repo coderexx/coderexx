@@ -1,7 +1,7 @@
-<h1 align="right">MD MAKSUD HASAB BISHAL</h1>
 
-###
-
+<h1 align="right">MD MAKSUD HASAB BISHAL   <img src="https://media.giphy.com/media/gM5qFksULw54NMWyry/giphy.gif" width="40px"/> </h1>
+<h3 align="center">Software Developer | Python | Dajango | React.js | Next.js</h3>
+<hr>
 <div align="center">
   <a href="https://www.linkedin.com/in/maksud-hasan/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
@@ -69,3 +69,7 @@
 </div>
 
 ###
+
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com/?lines=1%2B%20Years%20of%20Job%20Experience;Always%20Learning%20%26%20Growing&font=Fira%20Code&center=true&width=800&height=45&color=ffa500&vCenter=true&pause=1000&size=25"/>
+</p>
